@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  MyLocalizedApp
+
+  Created by Sergey Kargopolov on 2016-03-06.
+  Copyright © 2016 Sergey Kargopolov. All rights reserved.
+*/
+
+signUpPage.SuccessMessage = "Добро пожаловать";
+signUpPage.SuccessAlertWindowTitle = "Внимание";

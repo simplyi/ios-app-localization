@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "First name:"; ObjectID = "6sM-tk-bRh"; */
+"6sM-tk-bRh.text" = "Имя:";
+
+/* Class = "UILabel"; text = "Last name:"; ObjectID = "kaD-Gd-ap4"; */
+"kaD-Gd-ap4.text" = "Фамилия:";
+
+/* Class = "UIButton"; normalTitle = "Run"; ObjectID = "lbg-oN-ouN"; */
+"lbg-oN-ouN.normalTitle" = "Пуск";
